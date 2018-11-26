@@ -2,7 +2,7 @@ Corgi-The-Logger
 ====
 __DogShit logger for C#.__<br>
 
-STILL DEVELOPING<br>
+UNDER DEVELOPMENT<br>
 
 ![a](prev.gif)<br>
 
@@ -19,3 +19,7 @@ Logger.Write(TAG, "Doge got corgi");
 var TAG2 = "SystemLog/Zuzu";
 Logger.Write(TAG2, "bought dogecoin");
 ```
+
+* Foldable (Depth-based categorizing)
+* Interact with MouseInput!
+* Animation & Coloring
